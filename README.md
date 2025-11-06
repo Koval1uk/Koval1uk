@@ -160,7 +160,7 @@ I'm always interested in collaborating on innovative projects, especially those 
   <a href="https://pawlynx.com/">
     <img src="https://img.shields.io/badge/PawLynx-Visit_Our_Website-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="PawLynx"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kovalyu4ek@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
