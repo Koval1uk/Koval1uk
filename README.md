@@ -86,7 +86,7 @@ Building **PawLynx** from the ground up - assembling a world-class team and deli
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koval1uk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Koval1uk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koval1uk&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
 </div>
 
