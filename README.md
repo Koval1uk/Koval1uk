@@ -83,23 +83,6 @@ Building **PawLynx** from the ground up - assembling a world-class team and deli
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=Koval1uk&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koval1uk&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Koval1uk&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Koval1uk&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
